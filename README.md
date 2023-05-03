@@ -1,2 +1,2 @@
-# photography
-book your photosession
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
